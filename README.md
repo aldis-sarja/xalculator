@@ -22,7 +22,7 @@ You can assign the result to your own variable.
 But there is a default variable - **$ans**, which contains the recent output.
 ```php
 :X:> 35 + 11
-:X:>$ans + 1
-:X:>$ans / 2
+:X:> $ans + 1
+:X:> $ans / 2
 ...
 ```
